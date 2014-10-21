@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="BoligPortal">
+  <DataContextMoniker Name="/BoligPortalDataContext" />
+  <nestedChildShapes>
+    <classShape Id="35b11542-c7f9-445d-8e8e-17fd5c49f8a7" absoluteBounds="4.5, 1.375, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/BoligPortalDataContext/Apartment" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f6b15afe-b5b0-4d8a-b43f-d14b544aca33" absoluteBounds="4.515, 1.835, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

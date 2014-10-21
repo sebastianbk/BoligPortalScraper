@@ -1,0 +1,10 @@
+C:\Projects\BoligPortalScraper\BoligPortalScraper\bin\Debug\BoligPortalScraper.exe.config
+C:\Projects\BoligPortalScraper\BoligPortalScraper\bin\Debug\BoligPortalScraper.exe
+C:\Projects\BoligPortalScraper\BoligPortalScraper\bin\Debug\BoligPortalScraper.pdb
+C:\Projects\BoligPortalScraper\BoligPortalScraper\bin\Debug\HtmlAgilityPack.dll
+C:\Projects\BoligPortalScraper\BoligPortalScraper\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\BoligPortalScraper\BoligPortalScraper\bin\Debug\HtmlAgilityPack.pdb
+C:\Projects\BoligPortalScraper\BoligPortalScraper\bin\Debug\HtmlAgilityPack.xml
+C:\Projects\BoligPortalScraper\BoligPortalScraper\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\BoligPortalScraper\BoligPortalScraper\obj\Debug\BoligPortalScraper.exe
+C:\Projects\BoligPortalScraper\BoligPortalScraper\obj\Debug\BoligPortalScraper.pdb
